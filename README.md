@@ -1,4 +1,7 @@
 # AlvaradoRFigmaLife
+Raudel Alvarado
+10/25/23
+Did all my links first then made contianer so it can match my figma prototype. i also aligned eveyrthing correctly and made changes with css accordingly. 
 
 
 peer review
