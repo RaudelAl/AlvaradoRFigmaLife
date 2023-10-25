@@ -1,0 +1,86 @@
+
+/* 
+.navrigth{
+    display: flex;
+    justify-content: end;
+} */
+
+
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+
+.cen{
+    text-align: center;
+}
+/* .navcol{
+    background-color:cadetblue;
+} */
+
+body{
+    background-color:rgb(41, 41, 41) ;
+}
+
+.size{
+    font-size: xx-large;
+    text-align: center;
+    color: cadetblue;
+}
+
+p{
+    font-size: large;
+    color: cadetblue;
+    text-align: left;
+}
+.p1{
+    font-size: xx-large;
+    color: cadetblue;
+    text-align: left;
+}
+.sizep{
+    font-size: medium;
+}
+
+
+ul{
+    text-align: left;
+}
+
+
+.right{
+    display: flex;
+    align-items: flex-end;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+
+
+
+.navtext{
+    display: flex;
+    justify-content:end;
+}
+
+
+.navcol{
+    background-color: cadetblue;
+}
+.navbar-custom {
+    background-color: cadetblue;
+}
+
+.colp{
+    font-size: 8.5px;
+    color: rgb(0, 0, 0);
+    padding-left: 70px;
+}
+
+
+h3{
+    padding-top: 10px;
+}
